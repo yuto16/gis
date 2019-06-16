@@ -11,7 +11,8 @@ processing address, longitude, latitude, and so on
     
     京都府京都市山科区勧修寺東出町
 
-https://github.com/yuto16/gis/blob/master/uniform_address.ipynb
+[uniform_address.ipynb
+](https://github.com/yuto16/gis/blob/master/uniform_address.ipynb)
 
 or
 
